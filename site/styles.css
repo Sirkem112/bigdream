@@ -1,3 +1,4 @@
+
 body{
     font-size: 16px;
     color: #fff;
@@ -8,6 +9,6 @@ body{
 /**Header**/
 #header-nav {
     background-color: #f6b319;
-    border-radius: 0;
+    border-radius: 20;
     border: 0;
 }
